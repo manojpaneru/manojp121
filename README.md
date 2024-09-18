@@ -19,7 +19,7 @@ Feel free to connect with me:
 
 - *LinkedIn*: http://www.linkedin.com/in/manoj-paneru-67b58a212
 - *Email*: manojpaneru4444@gmail.com
-- *GitHub*: https://github.com/manojpaneru/manojp01
+- *GitHub*: https://github.com/manojpaneru/manojp121
 
 ## 🔧 Tools & Technologies
 
