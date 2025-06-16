@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Manoj Paneru
 
-I'm a passionate frontend developer with experience in creating dynamic and responsive web applications. I specialize in modern JavaScript frameworks and libraries, and I'm always eager to tackle new challenges.
+I'm a passionate frontend developer with experience in creating dynamic and responsive web applications. I specialize in modern JavaScript, React.js and Nagular frameworks and libraries, and I'm always eager to tackle new challenges.
 
 ## 🚀 Skills
 
@@ -17,11 +17,11 @@ I'm a passionate frontend developer with experience in creating dynamic and resp
 
 Feel free to connect with me:
 
-- *LinkedIn*: http://www.linkedin.com/in/manoj-paneru-67b58a212
+- *LinkedIn*: https://www.linkedin.com/in/manojpaneru834
 - *Email*: manojpaneru4444@gmail.com
-- *GitHub*: https://github.com/manojpaneru/manojp121
+- *GitHub*: https://github.com/manojpaneru
 
 ## 🔧 Tools & Technologies
 
-- *Code Editors*: VSCode
+- *Code Editors*: VSCode, Postman
 - *Design Tools*: Figma
